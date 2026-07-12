@@ -26,9 +26,7 @@ TypeScript
 AsyncStorage untuk penyimpanan lokal
 EAS Build untuk distribusi APK
 
-## Package
 
-com.reveldaniel.rutinku
 
 ## Download APK
 
